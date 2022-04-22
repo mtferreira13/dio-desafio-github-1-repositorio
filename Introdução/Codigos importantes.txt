@@ -1,0 +1,7 @@
+Codigos gerais
+mkdir: criar diretório
+ls: ver as pastas dentro daquele diretório
+cd: ir até diretório
+cd ..: retornar ao diretório
+
+
