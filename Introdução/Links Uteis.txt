@@ -1,2 +1,0 @@
-Link para mover arquivos ou renomea-los
-https://dev.to/womakerscode/tutorial-git-renomeando-ou-movendo-arquivos-do-git-10m

@@ -1,0 +1,4 @@
+1 - usar o git add*
+2 - usar o git commit -m " "
+3 - usar o push origin main
+4 - conferir se o commit foi bem sucedido
